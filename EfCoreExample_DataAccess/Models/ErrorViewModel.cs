@@ -1,6 +1,6 @@
 using System;
 
-namespace EfCoreExample.Models
+namespace EfCoreExample_DataAccess.Models
 {
     public class ErrorViewModel
     {
