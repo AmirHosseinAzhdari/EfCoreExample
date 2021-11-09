@@ -26,9 +26,11 @@ This service is an example of .Net 5 Ef Core with different models and using the
 ***
 
 ## Migration Commands
-- first install or update **dotnet ef** : 
+- First install or update **dotnet ef** : 
 ```bash
 dotnet tool install --global dotnet-ef
+```
+```bash
 dotnet tool update --global dotnet-ef
 ```
 verification 
